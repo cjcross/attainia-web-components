@@ -1,4 +1,6 @@
 # Attainia Web Components
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fattainia-web-components.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fattainia-web-components?ref=badge_shield)
+
 
 This repository contains modularized JavaScript and CSS meant to be used in an Attainia web application (built using the React.js framework).
 
@@ -493,3 +495,7 @@ A tooltip that can be attached to any header cell [fixed-data-table-2](https://g
 ### Number Tooltip Header Cell
 
 A tooltip (whose content is right-aligned) that can be attached to any header cell [fixed-data-table-2](https://github.com/schrodinger/fixed-data-table-2) library
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2Fattainia-web-components.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2Fattainia-web-components?ref=badge_large)
